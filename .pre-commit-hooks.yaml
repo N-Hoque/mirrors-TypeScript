@@ -1,0 +1,8 @@
+- id: tsc
+  name: Run TypeScript compiler
+  entry: tsc --noEmit
+  language: node
+  "types": [ts, tsx]
+  args: []
+  require_serial: false
+  additional_dependencies: ["tsc@4.4.4"]
