@@ -1,4 +1,4 @@
-# TypeScript mirror
+# TypeScript mirror [![main](https://github.com/N-Hoque/mirrors-TypeScript/actions/workflows/main.yml/badge.svg)](https://github.com/N-Hoque/mirrors-TypeScript/actions/workflows/main.yml)
 
 Mirror of TypeScript package for pre-commit.
 
