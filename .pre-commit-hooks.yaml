@@ -1,0 +1,9 @@
+-   id: tsc
+    name: typescript
+    entry: tsc --noEmit
+    language: node
+    'types': [ts,tsx]
+    args: []
+    require_serial: true
+    additional_dependencies: ["typescript@0.8.1-1"]
+    minimum_pre_commit_version: '0'
