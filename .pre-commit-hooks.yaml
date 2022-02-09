@@ -1,9 +1,10 @@
 -   id: tsc
     name: typescript
+    description: ''
     entry: tsc --noEmit
     language: node
     'types': [ts,tsx]
     args: []
     require_serial: false
-    additional_dependencies: ["typescript@4.6.0-dev.20220208"]
+    additional_dependencies: ["typescript@4.6.0-dev.20220209"]
     minimum_pre_commit_version: '0'
