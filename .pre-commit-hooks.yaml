@@ -6,5 +6,5 @@
     'types': [ts,tsx]
     args: []
     require_serial: false
-    additional_dependencies: ["typescript@5.7.0-dev.20240927"]
+    additional_dependencies: ["typescript@5.7.0-dev.20240928"]
     minimum_pre_commit_version: '0'
